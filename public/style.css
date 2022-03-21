@@ -106,14 +106,14 @@ color: #17c0eb
   font-size: 18px;
   font-weight: 400;
   color: rgb(0, 126, 199);
-  transition: all 0.3s linear;
+  transition: all 0.1s linear;
 }
 .btns button:first-child{
   background: none;
   margin-right: 5px;
 }
 .btns button:last-child{
-  color: #fff;
+  color: rgb(0, 126, 199);
   margin-left: 5px;
 }
 .btns button:first-child:hover{
@@ -135,8 +135,13 @@ color: #17c0eb
   }
 }
 
-
 /* CARD END */
+
+/* MODAL POPUP */
+
+
+
+/* MODAL POPUP END */
 
 @media screen and (max-width: 380px) {
   
@@ -251,6 +256,9 @@ body {
   font-family: var(--ff-body);
   font-size: var(--fs-400);
   color: var(--clr-neutral-900);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 h1,
