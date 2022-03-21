@@ -1,6 +1,5 @@
 const { DateTime } = require("luxon");
 
-
 module.exports = function(eleventyConfing){
   
   eleventyConfing.addPassthroughCopy('./src/style.css');
@@ -9,6 +8,7 @@ module.exports = function(eleventyConfing){
   eleventyConfing.addFilter("postDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED)
   })
+
 
   return {
     dir: {
