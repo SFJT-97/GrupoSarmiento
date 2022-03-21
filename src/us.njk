@@ -11,6 +11,73 @@ layout: 'base.njk'
     color: rgb(0, 126, 199);
     font-weight: bold;
   }
+
+.collapsible {
+  background-color: rgb(0, 126, 199);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+.active, .collapsible:hover {
+  background-color: rgb(0, 140, 199);
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+
+.content a {
+    text-align:center;
+    display:block;
+    text-decoration: none;
+    margin-bottom: 10px;
+    transition: all .3s ease-in-out;
+}
+
+.content a:hover {
+  color: black;
+}
+
+.cardtitle {
+  padding: 10px 0px;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(0, 126, 199);
+}
+
+.avatar {
+  margin: 0 auto;
+  vertical-align: middle;
+  width: 20%;
+  border-radius: 100%;
+  border: 2px solid rgb(0, 120, 199);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 6px 14px;
+}
+
 </style>
 
 <div class="contact__container">
@@ -55,36 +122,90 @@ Legislatura Provincial.
 </p>
 <hr>
 
-<div class="container-cards">
-      <div class="box">
-      <div class="image">
-         <img src="/assets/horacio.jpg">
-        </div>
-        <div class="name_job">Héctor Horacio Puigdomenech</div>
-        <p><strong>Licenciado en Geología</strong></p>
-        <p>hpuidomenech@gsarmiento.ar</p>
-        <div class="btns">
-          <button class="button-cv">Curriculum</button>
-        </div>
-      </div>
-      <div class="box">
-        <div class="image">
-         <img src="/assets/mario.jpg" alt="">
-        </div>
-        <div class="name_job">Mario Osvaldo Capello</div>
-        <p><strong>Ingeniero de Minas</strong></p>
-        <p>mcapelo@gsarmiento.ar</p>
-        <div class="btns">
-          <button class="button-cv">Curriculum</button>
-        </div>
-      </div>
-      <div class="box">
-        <div class="image">
-         <img src="/assets/blog/postimage.jpg" alt="">
-        </div>
-        <div class="name_job">Silvio Augusto Pastore</div>
-        <p><strong>Master en Desarrollo de proyectos</strong></p>
-        <p>spastore@gsarmiento.ar</p>
-        <div class="btns">
-          <button class="button-cv">Curriculum</button>
 
+<h1 class="cardtitle">Nosotros</h1>
+<button class="collapsible">Silvio Pastore</button>
+<div class="content">
+  <br>
+  <img src="/assets/silvio.jpg" alt="Avatar" class="avatar">
+  <br>
+  <p>Soy un profesional con amplia experiencia en conformación y participación de equipos interdisciplinarios para la programación, implementación y desarrollo de actividades vinculadas a las ciencias de la tierra. Ha integrados equipos, con diferentes niveles de participación, en las fases de: idea, perfectibilidad, factibilidad, desarrollo y cierre de proyectos de envergaduras tales como: presas de embalse, presas hidroeléctricas, proyectos avanzados de exploración mineros, cierre y remediación de proyectos avanzados de exploración minera, construcción de mina, estudios especiales tales como estudios de acuíferos profundos, aprovechamiento de energía eólica, auscultación de presas y en los últimos 15 años ha participado como consultor geocientífico en proyectos mineros y civiles en Canadá, República Dominicana, Chile y Argentina.</p>
+    <br>
+    <p>En el periodo de formación universitaria y pos-universidad se ha desempeño como docente en la Carrera de Geofísica e investigador del Instituto Sismológico Federico Volponi, dependiente de la Facultad de Ciencias Exactas, Físicas y Naturales de la Universidad Nacional De San Juan (UNSJ) y ha sido becario en el Instituto Nacional de Prevención Sísmica (INPRES). Actualmente es profesor titular de la cátedra elementos de perforaciones de la carrera de Lic. en Ciencias Geológicas de la UNSJ.</p>
+    <br>
+    <a href="Silvio-Pastore-CV" class="dl-cv">Descargar CV Completo</a>
+</div>
+
+<br>
+
+<button class="collapsible">Mario Capello</button>
+<div class="content">
+  <br>
+  <img src="/assets/mario.jpg" alt="Avatar" class="avatar">
+  <br>
+  <h4>Estudios Iniversitarios:</h4>
+  <p>Ingeniero de Minas. Facultad de Ingeniería - Universidad Nacional de San Juan.</p>
+  <br>
+  <h4>Cargos Desempeñados:</h4>
+  <ul>
+    <li><strong>1986</strong> - Convencional Constituyente en la Reforma de la Constitución Provincial de San Juan.</li>
+    <li><strong>1990 - 1991</strong> - Vocal del primer Directorio del Instituto Provincial de Explotación y Exploración Minera <strong>IPEEM</strong>.</li>
+    <li><strong>1991 - 1999</strong> - Diputado Provincial San Juan.</li>
+    <li><strong>1999 - 2003 </strong> - Diputado de la Nación Argentina.</li>
+    <li><strong>2001 - 2003</strong> - Secretario General del Bloque de Diputados Nacionales de la U.C.R.</li>
+    <li><strong>1999 - 2003</strong> - Vice-presidente Comisión de Minería H.C.D.N.</li>
+    <li><strong>2003 - 2007</strong> - Diputado Provincial San Juan.</li>
+    <li><strong>2008 - 2015</strong> - Secretario del Colegio Argentino de Ingenieros de Minas.</li>
+    <li><strong>2014 - 2015</strong> - Asesor Honorable Cámara de Diputados de la Nación.</li>
+    <li><strong>2016 - 2018</strong> - Sub Secretario de Desarrollo Minero de la Nación.</li>
+    <li><strong>2018 - 2019</strong> - Gerente de Explotación de YCRT (Yacimientos Carboníferos Río Turbio).</li>
+  </ul>
+  <br>
+  <h4>Actividad Parlamentaria y Profesional ligada a la Actividad Minera</h4>
+  <ul>
+    <li>Co-redactor de la ley 6029 y 6077 de Creación del IPEEM (Instituto Provincial de Exploraciones y Explotaciones Mineras).</li>
+    <li>Co-redactor del primer llamado a licitación de las 10 áreas de reservas mineras de la provincia de San Juan.</li>
+    <li>Impulsor y co-redactor de la ley provincial 7281 de Regalías Mineras.</li>
+    <li>Redactor de la ley 7862, modificatoria de la ley provincial de Regalías Mineras.</li>
+    <li>Consultor de empresas de la actividad minera, públicas y privadas.</li>
+    <li>Asesor ad Honorem en la Comisión de Energía Combustibles y Minería del Senado de la Nación Argentina.</li>
+    <li>Analista y consultor de la legislación minera argentina, su diversidad provincial y legislación comparada internacional en materia de regalías y fiscal.</li>
+    <li>Conferencista Internacional sobre la <strong>oferta Minera Metalífera Argentina</strong> (Oro, Plata, Cobre, Litio, Uranio).</li>
+  </ul>
+  <br>
+  <a href="Mario-Capello-CV" class="dl-cv">Descargar CV Completo</a>
+</div>
+
+<br>
+
+<button class="collapsible">Horacio Puigdomenech</button>
+<div class="content">
+    <br>
+  <img src="/assets/horacio.jpg" alt="Avatar" class="avatar">
+  <br>
+  <p>Nacido en Jáchal, San Juan, Argentina. Geólogo graduado en la Universidad Nacional de San Juan en octubre de 1980 y tiene un Diploma Post-Título en Evaluación Geoestadística de Yacimientos Minerales en la Universidad de Chile en 2008. Ha sido presidente del Consejo Profesional de Ciencias Geológicas de San Juan, Argentina, Número de Matrícula J002 y es Miembro de Prospectors and Developers Association of Canada (PDAC) Membership # 235704.</p>
+  <br>
+  <p>
+    Ha ejercido la profesión de geólogo por más de 35 años. Actualmente retirado, en el sector académico ha sido Profesor Titular de Yacimientos Minerales, Prospección Geoquímica y Economía de los Recursos Minerales, Secretario Técnico y Decano Normalizador en la Facultad de Ciencias Exactas Físicas y Naturales de la Universidad de San Juan. Ha sido  consultor del Programa de las Naciones Unidas para el Desarrollo Sector Minería. Ha desarrollado una dilatada experiencia en exploración y evaluación de proyectos mineros como geólogo, Jefe de Geología y Gerente de Proyectos para numerosas compañias en Argentina, Colombia, Perú y Afganistan. Actualmente es Consultor Independiente en UAKO Consultora Geológica. 
+  </p>
+</div>
+
+<br>
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>

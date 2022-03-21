@@ -5,8 +5,10 @@ date: 2021-05-15
 tags: ["post", "featured"]
 image: /assets/blog/article-2.jpg
 imageAlt: 
-description: Propuesta del Grupo Sarmiento que cuenta con trece pilares principales
+description: San Juan, atraviesa una crisis hídrica y una sequía sin precedentes. A través de la denominada “Alianza minería y el agua “se busca combinar los ingresos al estado provenientes de las regalías mineras para financiar por un periodo finito, todas las obras y acciones necesarias para transformar la realidad que afrontamos. Las acciones sugeridas, no tocan la estabilidad normativa ni financiera para las empresas mineras, asegurando la competitividad del distrito minero sanjuanino.
 ---
+
+San Juan, atraviesa una crisis hídrica y una sequía sin precedentes. A través de la denominada “Alianza minería y el agua “se busca combinar los ingresos al estado provenientes de las regalías mineras para financiar por un periodo finito, todas las obras y acciones necesarias para transformar la realidad que afrontamos. Las acciones sugeridas, no tocan la estabilidad normativa ni financiera para las empresas mineras, asegurando la competitividad del distrito minero sanjuanino.
 
 **La propuesta, “Alianza Minería y Agua”, gira en torno a los siguientes pilares:**
 
