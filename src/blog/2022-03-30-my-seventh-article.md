@@ -22,4 +22,4 @@ A la espera de un fallo que resuelva cuestiones de fondo, nos deja su visión de
 (2) Las fras corresponden a la base usuario publicada en el Intercambio comercial argentino (ICA) del 22/02/2022.
 </font> 
 
-[Descarga el Documento Completo](/assets/blog/reglamentacion-ley-de-glaciares.pdf)
+[Descarga el Documento Completo](/assets/blog/articulo-glaciares-publicado-en-la-ley.pdf)
