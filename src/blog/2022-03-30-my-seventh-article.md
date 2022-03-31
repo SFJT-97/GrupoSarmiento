@@ -15,11 +15,11 @@ El Doctor Carlos Saravia Frías publica en la revista especializada La ley, inte
 
 A la espera de un fallo que resuelva cuestiones de fondo, nos deja su visión desde una mirada jurisdiccional, donde está en juego la organización federal, la constitucionalidad y distintos procedimientos que nuestra Constitución Nacional manda obedecer.
 
-<font size="2"> 
+<font size="2">
 <br>
 (1) Subsecretaría de Relaciones Económicas Internacionales (SUBREI) con cifras del Banco Central de Chile
 <br>
 (2) Las fras corresponden a la base usuario publicada en el Intercambio comercial argentino (ICA) del 22/02/2022.
-</font> 
+</font>
 
 [Descarga el Documento Completo](/assets/blog/articulo-glaciares-publicado-en-la-ley.pdf)
