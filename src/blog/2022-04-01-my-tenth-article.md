@@ -1,5 +1,5 @@
 ---
-title: Inventario Provincial de Glaciares
+title: El litio en Argentina
 author: Santiago Juarez
 date: 2022-04-01
 image: https://live.staticflickr.com/65535/51858751849_4c7fc06e01_b.jpg
