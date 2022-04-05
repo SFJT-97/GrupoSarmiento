@@ -1,5 +1,5 @@
 ---
-title: El litio en Argentina
+title: Entrevista en la publicación "Skilling Mining Review"
 author: Mario Juarez
 date: 2022-04-01
 image: https://live.staticflickr.com/65535/51858424328_22345cb5d0_b.jpg
