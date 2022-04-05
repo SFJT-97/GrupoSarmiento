@@ -12,4 +12,3 @@ El mundo evoluciona a un ritmo muy acelerado, tal vez el más alto de la histori
 [Link a la revista Skillings Mining Review](https://issuu.com/skillingsminingreview/docs/smr_march_22?fr=sNzFlNTQ2OTQ5ODk)
 
 [Link a la Entrevista con Skillings](https://skillings.net/interview-with-mario-santiago-juarez/)
-
