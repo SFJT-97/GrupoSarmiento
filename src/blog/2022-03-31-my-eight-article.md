@@ -1,6 +1,6 @@
 ---
 title: Mapa del IPG de San Juan
-author: Santiago Juarez
+author: Silvio Pastore
 date: 2022-03-31
 image: https://live.staticflickr.com/65535/51858424468_58b96784f9_b.jpg
 imageAlt: 

@@ -1,6 +1,6 @@
 ---
 title: Inventario Provincial de Glaciares
-author: Santiago Juarez
+author: Silvio Pastore
 date: 2022-03-31
 image: https://live.staticflickr.com/65535/51858424408_23852df86b_b.jpg
 imageAlt: 

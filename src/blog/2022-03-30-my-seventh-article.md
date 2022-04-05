@@ -1,6 +1,6 @@
 ---
 title: A propósito de la Ley de Glaciares
-author: Santiago Juarez
+author: Silvio Pastore
 date: 2022-03-30
 image: https://live.staticflickr.com/65535/51859000320_748d397f89_b.jpg
 imageAlt: 

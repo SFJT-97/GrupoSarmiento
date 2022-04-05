@@ -1,6 +1,6 @@
 ---
 title: Proyecto de Ley - "Alianza minería y agua"
-author: Santiago Juarez
+author: Grupo Sarmiento
 date: 2022-01-04
 image: /assets/blog/article-4.jpg
 imageAlt: 

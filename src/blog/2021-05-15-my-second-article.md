@@ -1,6 +1,6 @@
 ---
 title: Alianza entre la Minería y el Agua
-author: Santiago Juarez
+author: Grupo Sarmiento
 date: 2021-05-15
 tags: ["post", "featured"]
 image: /assets/blog/article-2.jpg
@@ -20,7 +20,7 @@ San Juan, atraviesa una crisis hídrica y una sequía sin precedentes. A través
 6. Se indica el origen de los fondos con los que sería posible acometer de manera sistemática y proactiva acciones para superar y enmarcar en límites tolerables los alcances de la crisis hídrica.
 7. Cuantitativamente, los fondos a usar no son significativos respecto del presupuesto provincial.
 8. Se señala claramente que es necesario trabajar y apoyar técnica y financieramente, actualizando las medidas de uso y control del agua en la producción agrícola, ya que es el sector de la sociedad civil, lejos, que más recurso consume.
-9.  Se defiende a la actividad minera al identificar claramente que **el problema de la crisis hídrica no tiene relación alguna con los consumos de agua en la actualidad, señalando que NO hay minas sobre el área de influencia en la cuenca del Rio San Juan.**
+9. Se defiende a la actividad minera al identificar claramente que **el problema de la crisis hídrica no tiene relación alguna con los consumos de agua en la actualidad, señalando que NO hay minas sobre el área de influencia en la cuenca del Rio San Juan.**
 10. No se agrega carga económica al ciudadano y tampoco a las empresas mineras. Evitamos así sobrecargar a los contribuyentes y cuidamos la competitividad. Mas carga tributaria y acortamiento de la vida de los proyectos son una pésima ecuación que propusimos eludir.
 11. Se consolida la estabilidad jurídica de las empresas haciendo confiable el tránsito hacia la puesta en marcha de nuevas minas, posibilitando atraer más exploración y asegurar la continuidad de Gualcamayo y Veladero según lo proyectado.
 12. Se señala un camino proactivo en la vinculación entre los recursos provenientes de las minas y los proyectos que se pongan en marcha, con acciones concretas que ayuden a una solución frente al problema de la sequía.

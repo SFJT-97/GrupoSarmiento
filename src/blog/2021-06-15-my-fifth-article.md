@@ -1,6 +1,6 @@
 ---
 title: Modificacion Articulo 19
-author: Santiago Juarez
+author: Mario Capello
 date: 2021-06-15
 image: /assets/blog/article-5.jpg
 imageAlt: 

@@ -1,6 +1,6 @@
 ---
 title: Grupo Sarmiento
-author: Santiago Juarez
+author: Grupo Sarmiento
 date: 2021-01-05
 tags: ['post', 'featured']
 image: /assets/blog/article-3.jpg
@@ -15,5 +15,3 @@ Estamos convencidos que en Argentina existen los recursos necesarios para apunta
 **El objeto de este Grupo es valernos del conocimiento científico ante la realidad climática, social y económica que estamos afrontando, con el fin de disminuir la vulnerabilidad de la población y del ecosistema, buscando su mejor y más rápida adaptación.**
 
 Pretendemos salir de una lógica de enfrentamientos artificiales por supuestos intereses particulares, pertenencias partidarias o ideológicas. Analizar los problemas sin prejuicios, basados en el sentido común y la búsqueda del bienestar intergeneracional en su concepción más amplia.
-
-

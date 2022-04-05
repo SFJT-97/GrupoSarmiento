@@ -1,6 +1,6 @@
 ---
 title: Reglamentación de la ley de glaciares
-author: Santiago Juarez
+author: Silvio Pastore
 date: 2022-03-30
 image: https://live.staticflickr.com/65535/51858336551_5216e7f92a_b.jpg
 imageAlt: 
