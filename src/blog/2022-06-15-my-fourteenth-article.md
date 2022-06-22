@@ -4,7 +4,7 @@ author: Grupo Sarmiento
 date: 2022-06-15
 image: https://live.staticflickr.com/65535/51858119193_aa2a646e4b_k.jpg
 imageAlt:
-description: ¿Qué es lo que esperamos del desarrollo de la minería como sociedad? Pretendemos una Industria Minera sustentable desde todo punto de vista, es decir, Inversiones que nos permitan aprovechar nuestras riquezas, cero contaminaciones desde lo ambiental, y equidad social en la región en que se desarrolla.Esa visión integral además de aspectos relacionados con beneficios inmediatos en la cadena de actores involucrados es también garantiza la Continuidad del Desarrollo en el largo plazo. Debemos ser capaces de proyectar el beneficio de toda gestión en el presente, sin estropear el aprovechamiento de todo el mineral posible. Sin privar a los argentinos actuales y a los que están por venir, de los beneficios de una industria que puede concebirse por mucho tiempo.
+description: ¿Qué es lo que esperamos del desarrollo de la minería como sociedad? Pretendemos una Industria Minera sustentable desde todo punto de vista, es decir, Inversiones que nos permitan aprovechar nuestras riquezas, cero contaminaciones desde lo ambiental, y equidad social en la región en que se desarrolla.
 ---
 ## Al respecto de la propuesta de retenciones móviles: Su efecto en la minería
 
